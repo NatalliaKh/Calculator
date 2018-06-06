@@ -1,2 +1,2 @@
 # Calculator
-test project for automatization
+test project for automatization git
